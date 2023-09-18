@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muenala&label=Profile%20views&color=0e75b6&style=flat" alt="muenala" /> </p>
 
 
-- 🔭 I’m currently working on [Consejo de la judicatura](https://www.funcionjudicial.gob.ec/))
+- 🔭 I’m currently working on [Consejo de la judicatura](https://www.funcionjudicial.gob.ec/)
 
 - 🌱 I’m currently learning **Frameworks and good practices**
 
